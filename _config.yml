@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bytefever.github.io
+title: byteFever
+email: bwhite82@gmail.com
+author: Brandon
+description: Nerdology
+paginate: 3
+google_analytics: 
